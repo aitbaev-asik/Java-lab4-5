@@ -77,7 +77,3 @@
     <li><strong>MySQL</strong> — реляционная база данных.</li>
     <li><strong>Tomcat</strong> — веб-сервер для выполнения сервлетов и JSP.</li>
 </ul>
-
-<h2>Контакты</h2>
-
-<p>Если у вас есть вопросы или предложения, пожалуйста, свяжитесь со мной через email: <a href="mailto:ваш_email@example.com">ваш_email@example.com</a></p>
